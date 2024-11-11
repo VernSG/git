@@ -8,8 +8,8 @@
 set -e
 
 # Git identity
-GIT_USER="xyzuniverse"
-GIT_EMAIL="dev.xyzuniverse@gmail.com"
+GIT_USER="VernSG"
+GIT_EMAIL="snexmania76@gmail.com"
 git config --global user.name "$GIT_USER"
 git config --global user.email "$GIT_EMAIL"
 
